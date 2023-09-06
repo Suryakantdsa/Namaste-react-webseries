@@ -26,3 +26,5 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 //it is used to create a root of the DOM where all react element wull render
 root.render(parent);
 // this render is simple a function which will take the react element (just a js object) and create the dom structure which the broswer understand
+
+// this render function will replace the HTML (broswer understand) with waht ever html element will root div have previouly. 
